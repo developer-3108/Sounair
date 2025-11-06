@@ -56,9 +56,11 @@ Sounair's core logic is an elegant integration of three main components:
 
 ## 🖼️ Demo Preview
 
-![Image](https://github.com/user-attachments/assets/75896f54-f7de-4bb6-995d-c45200958a37)
+Demo Video Link: [Google Drive](https://drive.google.com/file/d/1yyoIn4iibpGMoFwahaeF6UkOccwl3tP1/view?usp=sharing)
 
-![Image](https://github.com/user-attachments/assets/195dcad7-1fce-4e10-84e9-d77326ec3e28)
+<img src="https://github.com/user-attachments/assets/75896f54-f7de-4bb6-995d-c45200958a37" alt="Home Page Screenshot" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/195dcad7-1fce-4e10-84e9-d77326ec3e28" alt="Home Page Screenshot" width="300"/>
 
 ---
 
