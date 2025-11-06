@@ -10,9 +10,22 @@
 		77B54E1B2EBBA5C80042BD43 /* Sounair.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sounair.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		77B54E3C2EBBAA8E0042BD43 /* Exceptions for "Sounair" folder in "Sounair" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 77B54E1A2EBBA5C80042BD43 /* Sounair */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		77B54E1D2EBBA5C80042BD43 /* Sounair */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				77B54E3C2EBBAA8E0042BD43 /* Exceptions for "Sounair" folder in "Sounair" target */,
+			);
 			path = Sounair;
 			sourceTree = "<group>";
 		};
@@ -256,11 +269,15 @@
 				DEVELOPMENT_TEAM = 3W4H6VC6AG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Sounair/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Sounair;
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "We need this permission also.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Just give us this permission.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -288,11 +305,15 @@
 				DEVELOPMENT_TEAM = 3W4H6VC6AG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Sounair/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Sounair;
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "We need this permission also.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Just give us this permission.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
