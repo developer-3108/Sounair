@@ -110,7 +110,7 @@ Because touching screens? That’s so last decade.
 
 ## 📣 Connect
 
-If you liked the project, drop a ⭐ on GitHub or share your thoughts on [LinkedIn](https://linkedin.com/in/yourprofile). You can also follow me on [X](https://x.com/developer_3108).Let’s redefine how we listen, one gesture at a time. 
+If you liked the project, drop a ⭐ on GitHub or share your thoughts on [LinkedIn](https://linkedin.com/in/akshatsriv07). You can also follow me on [X](https://x.com/developer_3108).Let’s redefine how we listen, one gesture at a time. 
 
 ☕️ Support the madness (and my coffee bill): [https://razorpay.me/@akshatsriv_07](https://razorpay.me/@akshatsriv_07)
 
